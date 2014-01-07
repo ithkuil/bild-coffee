@@ -1,0 +1,11 @@
+{
+  "name": "bild-coffee",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npm i -g coffee-script"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
